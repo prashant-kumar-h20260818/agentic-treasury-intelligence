@@ -143,7 +143,7 @@ cp .env.example .env
 Then set:
 
 ```env
-GOOGLE_API_KEY=AQ.Ab8RN6JoowTXp0CHRh_BLt1kfaVLPLihxNitXbxabfZq3Of4zQ
+GOOGLE_API_KEY=API KEY
 GOOGLE_MODEL=gemini-3.7-flash
 ```
 
